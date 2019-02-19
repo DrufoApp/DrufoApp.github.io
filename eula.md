@@ -48,11 +48,11 @@ You shall use Drufo in compliance with all applicable laws and not for any unlaw
 </p>
 
 <p>
-Each licensed copy of Drufo may be used on one single computer location by one user. Use of Drufo means that you have loaded, installed, or run Drufo on a computer or similar device. If you install Drufo onto a multi-user platform, server or network, each and every individual user of Drufo must be licensed separately.
+Each licensed copy of Drufo may be used on one single mobile location by one user. Use of Drufo means that you have loaded, installed, or run Drufo on a computer or similar device. If you install Drufo onto a multi-user platform, server or network, each and every individual user of Drufo must be licensed separately.
 </p>
 
 <p>
-You may make one copy of Drufo for backup purposes, providing you only have one copy installed on one computer being used by one person. Other users may not use your copy of Drufo . The assignment, sublicense, networking, sale, or distribution of copies of Drufo are strictly forbidden without the prior written consent of Dmitriy Marozov. It is a violation of this agreement to assign, sell, share, loan, rent, lease, borrow, network or transfer the use of Drufo. If any person other than yourself uses Drufo registered in your name, regardless of whether it is at the same time or different times, then this agreement is being violated and you are responsible for that violation!
+You may make one copy of Drufo for backup purposes, providing you only have one copy installed on one mobile being used by one person. Other users may not use your copy of Drufo . The assignment, sublicense, networking, sale, or distribution of copies of Drufo are strictly forbidden without the prior written consent of Dmitriy Marozov. It is a violation of this agreement to assign, sell, share, loan, rent, lease, borrow, network or transfer the use of Drufo. If any person other than yourself uses Drufo registered in your name, regardless of whether it is at the same time or different times, then this agreement is being violated and you are responsible for that violation!
 </p>
 
 <h3>3.3 Copyright Restriction</h3>
