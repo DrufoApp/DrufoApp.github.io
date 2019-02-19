@@ -41,21 +41,7 @@ Drufo and the license herein granted shall not be copied, shared, distributed, r
 Your license to use Drufo is limited to the number of licenses purchased by you. You shall not allow others to use, copy or evaluate copies of Drufo.
 </p>
 
-<h3>3.2 Use Restrictions</h3>
-
-<p>
-You shall use Drufo in compliance with all applicable laws and not for any unlawful purpose. Without limiting the foregoing, use, display or distribution of Drufo together with material that is pornographic, racist, vulgar, obscene, defamatory, libelous, abusive, promoting hatred, discriminating or displaying prejudice based on religion, ethnic heritage, race, sexual orientation or age is strictly prohibited.
-</p>
-
-<p>
-Each licensed copy of Drufo may be used on one single mobile device by one user. Use of Drufo means that you have loaded, installed, or run Drufo on a computer or similar device. If you install Drufo onto a multi-user platform, server or network, each and every individual user of Drufo must be licensed separately.
-</p>
-
-<p>
-You may make one copy of Drufo for backup purposes, providing you only have one copy installed on one mobile being used by one person. Other users may not use your copy of Drufo . The assignment, sublicense, networking, sale, or distribution of copies of Drufo are strictly forbidden without the prior written consent of Dmitriy Marozov. It is a violation of this agreement to assign, sell, share, loan, rent, lease, borrow, network or transfer the use of Drufo. If any person other than yourself uses Drufo registered in your name, regardless of whether it is at the same time or different times, then this agreement is being violated and you are responsible for that violation!
-</p>
-
-<h3>3.3 Copyright Restriction</h3>
+<h3>3.2 Copyright Restriction</h3>
 
 <p>
 This Software contains copyrighted material, trade secrets and other proprietary material. You shall not, and shall not attempt to, modify, reverse engineer, disassemble or decompile Drufo. Nor can you create any derivative works or other works that are based upon or derived from Drufo in whole or in part.
@@ -69,7 +55,7 @@ Dmitriy Marozov's name, logo and graphics file that represents Drufo shall not b
 Copyright law and international copyright treaty provisions protect all parts of Drufo, products and services. No program, code, part, image, audio sample, or text may be copied or used in any way by the user except as intended within the bounds of the single user program. All rights not expressly granted hereunder are reserved for Dmitriy Marozov.
     </p>
     
-<h3>3.4 Limitation of Responsibility</h3>
+<h3>3.3 Limitation of Responsibility</h3>
     
 <p>
 You will indemnify, hold harmless, and defend Dmitriy Marozov , its employees, agents and distributors against any and all claims, proceedings, demand and costs resulting from or in any way connected with your use of Dmitriy Marozov's Software.
@@ -83,19 +69,19 @@ You will indemnify, hold harmless, and defend Dmitriy Marozov , its employees, a
 Dmitriy Marozov's entire liability, without exception, is limited to the customers' reimbursement of the purchase price of the Software (maximum being the lesser of the amount paid by you and the suggested retail price as listed by Dmitriy Marozov ) in exchange for the return of the product, all copies, registration papers and manuals, and all materials that constitute a transfer of license from the customer back to Dmitriy Marozov.
 </p>
 
-<h3>3.5 Warranties</h3>
+<h3>3.4 Warranties</h3>
 
 <p>
 Except as expressly stated in writing, Dmitriy Marozov makes no representation or warranties in respect of this Software and expressly excludes all other warranties, expressed or implied, oral or written, including, without limitation, any implied warranties of merchantable quality or fitness for a particular purpose.
 </p>
 
-<h3>3.6 Governing Law</h3>
+<h3>3.5 Governing Law</h3>
 
 <p>
 This Agreement shall be governed by the law of the Russian Federation applicable therein. You hereby irrevocably attorn and submit to the non-exclusive jurisdiction of the courts of Russian Federation therefrom. If any provision shall be considered unlawful, void or otherwise unenforceable, then that provision shall be deemed severable from this License and not affect the validity and enforceability of any other provisions.
 </p>
 
-<h3>3.7 Termination</h3>
+<h3>3.6 Termination</h3>
 
 <p>
 Any failure to comply with the terms and conditions of this Agreement will result in automatic and immediate termination of this license. Upon termination of this license granted herein for any reason, you agree to immediately cease use of Drufo and destroy all copies of Drufo supplied under this Agreement. The financial obligations incurred by you shall survive the expiration or termination of this license.
