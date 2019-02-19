@@ -69,13 +69,13 @@ Dmitriy Marozov's name, logo and graphics file that represents Drufo shall not b
 Copyright law and international copyright treaty provisions protect all parts of Drufo, products and services. No program, code, part, image, audio sample, or text may be copied or used in any way by the user except as intended within the bounds of the single user program. All rights not expressly granted hereunder are reserved for Dmitriy Marozov.
     </p>
     
-    <h3>3.4 Limitation of Responsibility</h3>
+<h3>3.4 Limitation of Responsibility</h3>
     
-    <p>
-    You will indemnify, hold harmless, and defend Dmitriy Marozov , its employees, agents and distributors against any and all claims, proceedings, demand and costs resulting from or in any way connected with your use of Dmitriy Marozov's Software.
-    </p>
+<p>
+You will indemnify, hold harmless, and defend Dmitriy Marozov , its employees, agents and distributors against any and all claims, proceedings, demand and costs resulting from or in any way connected with your use of Dmitriy Marozov's Software.
+</p>
     
-    <p>
+<p>
     In no event (including, without limitation, in the event of negligence) will Dmitriy Marozov , its employees, agents or distributors be liable for any consequential, incidental, indirect, special or punitive damages whatsoever (including, without limitation, damages for loss of profits, loss of use, business interruption, loss of information or data, or pecuniary loss), in connection with or arising out of or related to this Agreement, Drufo or the use or inability to use Drufo or the furnishing, performance or use of any other matters hereunder whether based upon contract, tort or any other theory including negligence.
 </p>
 
@@ -99,16 +99,16 @@ This Agreement shall be governed by the law of the Russian Federation applicable
 
 <p>
 Any failure to comply with the terms and conditions of this Agreement will result in automatic and immediate termination of this license. Upon termination of this license granted herein for any reason, you agree to immediately cease use of Drufo and destroy all copies of Drufo supplied under this Agreement. The financial obligations incurred by you shall survive the expiration or termination of this license.
-    </p>
+</p>
     
-    <h2>4. DISCLAIMER OF WARRANTY</h2>
+<h2>4. DISCLAIMER OF WARRANTY</h2>
     
-    <p>
-    THIS SOFTWARE AND THE ACCOMPANYING FILES ARE SOLD "AS IS" AND WITHOUT WARRANTIES AS TO PERFORMANCE OR MERCHANTABILITY OR ANY OTHER WARRANTIES WHETHER EXPRESSED OR IMPLIED. THIS DISCLAIMER CONCERNS ALL FILES GENERATED AND EDITED BY Drufo AS WELL.
-    </p>
+<p>
+THIS SOFTWARE AND THE ACCOMPANYING FILES ARE SOLD "AS IS" AND WITHOUT WARRANTIES AS TO PERFORMANCE OR MERCHANTABILITY OR ANY OTHER WARRANTIES WHETHER EXPRESSED OR IMPLIED. THIS DISCLAIMER CONCERNS ALL FILES GENERATED AND EDITED BY Drufo AS WELL.
+</p>
     
-    <h2>5. CONSENT OF USE OF DATA</h2>
+<h2>5. CONSENT OF USE OF DATA</h2>
     
-    <p>
+<p>
     You agree that Dmitriy Marozov may collect and use information gathered in any manner as part of the product support services provided to you, if any, related to Drufo.Dmitriy Marozov may also use this information to provide notices to you which may be of use or interest to you.
 </p>
