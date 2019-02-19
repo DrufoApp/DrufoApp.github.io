@@ -48,7 +48,7 @@ You shall use Drufo in compliance with all applicable laws and not for any unlaw
 </p>
 
 <p>
-Each licensed copy of Drufo may be used on one single mobile location by one user. Use of Drufo means that you have loaded, installed, or run Drufo on a computer or similar device. If you install Drufo onto a multi-user platform, server or network, each and every individual user of Drufo must be licensed separately.
+Each licensed copy of Drufo may be used on one single mobile device by one user. Use of Drufo means that you have loaded, installed, or run Drufo on a computer or similar device. If you install Drufo onto a multi-user platform, server or network, each and every individual user of Drufo must be licensed separately.
 </p>
 
 <p>
