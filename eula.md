@@ -110,5 +110,5 @@ THIS SOFTWARE AND THE ACCOMPANYING FILES ARE SOLD "AS IS" AND WITHOUT WARRANTIES
 <h2>5. CONSENT OF USE OF DATA</h2>
     
 <p>
-    You agree that Dmitriy Marozov may collect and use information gathered in any manner as part of the product support services provided to you, if any, related to Drufo.Dmitriy Marozov may also use this information to provide notices to you which may be of use or interest to you.
+    You agree that Dmitriy Marozov may collect and use information gathered in any manner as part of the product support services provided to you, if any, related to Drufo. Dmitriy Marozov may also use this information to provide notices to you which may be of use or interest to you.
 </p>
